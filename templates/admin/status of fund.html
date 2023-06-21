@@ -1,0 +1,30 @@
+{% extends 'admin/home_index.html' %}
+{% block body %}
+
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-bordered table-hover">
+    <tr>
+      <td>Sl No</td>
+      <td>Org_Name</td>
+      <td>Required Amount</td>
+      <td>Purpose</td>
+      <td>Date</td>
+      <td>Address</td>
+      <td></td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ i['Name'] }}</td>
+      <td>{{ i['Amount'] }}</td>
+      <td>{{ i['Purpose'] }}</td>
+      <td>{{ i['Date'] }}</td>
+      <td>{{ i['Address1'] }}</td>
+      <td><a href="/view_donations/{{ i['R_id'] }}">Donations</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+
+{% endblock %}
+

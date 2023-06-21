@@ -1,0 +1,55 @@
+{% extends 'Organization/home_index.html' %}
+{% block body %}
+<form id="form1" name="form1" method="post" action="/org_edit_post_post">
+<input type="hidden" name="id" value="{{ data['R_id'] }}">
+<table class="table table-bordered table-hover">
+  <tr>
+    <td>Organization</td>
+    <td><select name="select" id="select">
+        {% for i in data1 %}
+        <option value="{{ i['Org_lid'] }}" {% if  data['Org_lid']==i['Org_lid'] %}selected {% endif %}>{{ i['Org_Name'] }}</option>
+        {% endfor %}
+    </select></td>
+  </tr>
+  <tr>
+    <td>Purpose</td>
+    <td><label for="textfield"></label>
+      <input type="text" name="textfield" id="textfield"  value="{{ data['Purpose'] }}" class="form-control" required /></td>
+  </tr>
+  <tr>
+    <td>Amount</td>
+    <td><label for="textfield2"></label>
+      <input type="text" name="textfield2" id="textfield2" value="{{ data['Amount'] }}" class="form-control" required /></td>
+  </tr>
+  <tr>
+    <td>Last Date</td>
+    <td><label for="textfield7"></label>
+      <input type="date" name="textfield7" id="textfield7" value="{{ data['Date'] }}" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td><label for="textfield3"></label>
+      <input type="text" name="textfield3" id="textfield3" value="{{ data['Name'] }}" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Address 1</td>
+    <td><label for="textfield4"></label>
+      <input type="text" name="textfield4" id="textfield4" value="{{ data['Address1'] }}" class="form-control" required /></td>
+  </tr>
+  <tr>
+    <td>Address 2</td>
+    <td><label for="textfield5"></label>
+      <input type="text" name="textfield5" id="textfield5" value="{{ data['Address2'] }}" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Address 3</td>
+    <td><label for="textfield6"></label>
+      <input type="text" name="textfield6" id="textfield6" value="{{ data['Address3'] }}" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><input type="submit" name="button" id="button" value="Submit" class="btn btn-success"  /></td>
+  </tr>
+</table>
+</form>
+{% endblock %}

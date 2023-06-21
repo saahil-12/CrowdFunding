@@ -1,0 +1,28 @@
+{% extends 'Organization/home_index.html' %}
+{% block body %}
+<form id="form1" name="form1" method="post" action="">
+ <table class="table table-bordered table-hover">
+    <tr>
+      <td>Org Name</td>
+      <td>Fund Req Details</td>
+      <td>Recieved Full Amount</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><p>
+        <label>
+          <input type="radio" name="RadioGroup1" value="Yes" id="RadioGroup1_0" />
+          Yes</label>
+        
+        <label>
+          <input type="radio" name="RadioGroup1" value="No" id="RadioGroup1_1" />
+          No</label>
+        
+      </p></td>
+      <td><a href="#">Delete</a></td>
+    </tr>
+  </table>
+</form>
+{% endblock %}

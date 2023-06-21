@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table width="200" border="1">
+    <tr>
+      <td>&nbsp;</td>
+      <td><img src="{{ data['Photo'] }}" height="100px" width="100px"/></td>
+    </tr>
+    <tr>
+      <td>Name</td>
+      <td>{{ data['User_Name'] }}</td>
+    </tr>
+    <tr>
+      <td>Gender</td>
+      <td>{{ data['Gender'] }}</td>
+    </tr>
+    <tr>
+      <td>Mail</td>
+      <td>&nbsp;{{ data['Mail_Id'] }}</td>
+    </tr>
+    <tr>
+      <td>Contact</td>
+      <td>&nbsp;{{ data['Contact'] }}</td>
+    </tr>
+    <tr>
+      <td>Place</td>
+      <td>&nbsp;{{ data['Place'] }}</td>
+    </tr>
+    <tr>
+      <td>Post</td>
+      <td>{{ data['Post'] }}&nbsp;</td>
+    </tr>
+    <tr>
+      <td><p>District</p></td>
+      <td>&nbsp;{{ data['District'] }}</td>
+    </tr>
+    <tr>
+      <td>Pin</td>
+      <td>{{ data['Pin'] }}&nbsp;</td>
+    </tr>
+      <tr>
+          <td>
+              <a href="/user_edit_profile" >Edit</a>
+          </td>
+      </tr>
+  </table>
+</form>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{% extends 'admin/home_index.html' %}
+{% block body %}
+
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-bordered table-hover">
+    <tr>
+      <td>Sl No</td>
+      <td>User</td>
+      <td>Email</td>
+        <td>Amount</td>
+        <td>Date</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ i['name'] }}</td>
+      <td>{{ i['mail'] }}</td>
+      <td>{{ i['amounta'] }}</td>
+      <td>{{ i['datea'] }}</td>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+
+{% endblock %}
+

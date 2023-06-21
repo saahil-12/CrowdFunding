@@ -1,0 +1,44 @@
+{% extends 'Organization/home_index.html' %}
+{% block body %}
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-bordered table-hover">
+    <tr>
+      <td>Name</td>
+      <td>{{ data['Org_Name'] }}</td>
+    </tr>
+    <tr>
+      <td>Mail</td>
+      <td>{{ data['Mail_Id'] }}</td>
+    </tr>
+    <tr>
+      <td>Contact </td>
+      <td>{{ data['Contact_No'] }}</td>
+    </tr>
+    <tr>
+      <td>Place</td>
+      <td>{{ data['Place'] }}</td>
+    </tr>
+    <tr>
+      <td>Post</td>
+      <td>&nbsp;{{ data['Post'] }}</td>
+    </tr>
+    <tr>
+      <td>District</td>
+      <td>{{ data['District'] }}</td>
+    </tr>
+    <tr>
+      <td>Pin</td>
+      <td>&nbsp;{{ data['Pincode'] }}</td>
+    </tr>
+    <tr>
+      <td>State</td>
+      <td>&nbsp;{{ data['State'] }}</td>
+    </tr>
+      <tr>
+          <td colspan="2" align="center">
+              <a href ="/org_edit_profile">edit</a>
+          </td>
+      </tr>
+  </table>
+</form>
+{% endblock %}

@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34d6db8a-975b-48d1-9de2-1de26111db91" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/crowdfunding$crowdfunding.coverage" NAME="crowdfunding Coverage Results" MODIFIED="1687329067187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="crowdfunding.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crowdfunding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-383">
+              <caret line="508" column="43" lean-forward="true" selection-start-line="508" selection-start-column="43" selection-end-line="508" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1681287381231" expanded="true" signature="714:755" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="714:785" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="714:798" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="1941:1976" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="1941:2017" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="1941:2037" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="2148:2179" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="2148:2213" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="2148:2237" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="3040:3071" ph="UPDATE `comp... " />
+                <marker date="1681287381231" expanded="true" signature="3040:3072" ph="UPDATE `comp... " />
+                <marker date="1681287381231" expanded="true" signature="3040:3092" ph="UPDATE `comp... " />
+                <marker date="1681287381231" expanded="true" signature="3040:3124" ph="UPDATE `comp... " />
+                <marker date="1681287381231" expanded="true" signature="3040:3132" ph="UPDATE `comp... " />
+                <marker date="1681287381231" expanded="true" signature="3326:3417" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="4559:4574" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="4559:4617" ph="SELECT `orgn... donation request" />
+                <marker date="1681287381231" expanded="true" signature="5181:5201" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="5423:5481" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="5659:5712" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="5896:5965" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="6119:6188" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="6327:6381" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="6604:6687" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="6851:6905" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="7128:7211" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="7551:7635" ph="SELECT * FRO... complaint" />
+                <marker date="1681287381231" expanded="true" signature="7939:8077" ph="SELECT * FRO... complaint" />
+                <marker date="1681287381231" expanded="true" signature="8835:8938" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="10486:10544" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="11132:11202" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="11383:11457" ph="SELECT * FRO... organization" />
+                <marker date="1681287381231" expanded="true" signature="11965:12003" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12026" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12052" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12073" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12093" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12115" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12141" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12160" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12208" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="11965:12232" ph="UPDATE `orga... " />
+                <marker date="1681287381231" expanded="true" signature="12730:12826" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="12937:13026" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="13470:13498" ph="select * fro... organization" />
+                <marker date="1681287381231" expanded="true" signature="13995:14111" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14148" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14161" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14176" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14191" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14206" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14220" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="13995:14244" ph="INSERT INTO `request`... " />
+                <marker date="1681287381231" expanded="true" signature="14426:14543" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="14426:14567" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="14741:14769" ph="select * fro... organization" />
+                <marker date="1681287381231" expanded="true" signature="14741:14787" ph="select * fro... organization" />
+                <marker date="1681287381231" expanded="true" signature="14741:14811" ph="select * fro... organization" />
+                <marker date="1681287381231" expanded="true" signature="14741:14813" ph="select * fro... organization" />
+                <marker date="1681287381231" expanded="true" signature="14849:14887" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="14849:14894" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="15457:15506" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15535" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15559" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15585" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15611" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15636" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15657" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15702" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15457:15709" ph="update `requ... " />
+                <marker date="1681287381231" expanded="true" signature="15901:15937" ph="DELETE FROM " />
+                <marker date="1681287381231" expanded="true" signature="15901:15944" ph="DELETE FROM " />
+                <marker date="1681287381231" expanded="true" signature="16927:17023" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="17058:17297" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="17581:17641" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="17818:17882" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="20422:20518" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="20629:20718" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="21364:21444" ph="INSERT INTO `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="21364:21500" ph="INSERT INTO `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="21364:21515" ph="INSERT INTO `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="21700:21744" ph="SELECT * FRO... complaint" />
+                <marker date="1681287381231" expanded="true" signature="21700:21768" ph="SELECT * FRO... complaint" />
+                <marker date="1681287381231" expanded="true" signature="21955:21975" ph="SELECT * FRO... fund" />
+                <marker date="1681287381231" expanded="true" signature="22496:22537" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="22496:22567" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="22496:22580" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="23543:23601" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="23543:23615" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="23543:23631" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="23543:23637" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="23543:23638" ph="INSERT INTO `login`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23796" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23811" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23824" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23838" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23851" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23862" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23874" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23885" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23900" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23910" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="23680:23924" ph="INSERT INTO `user`... " />
+                <marker date="1681287381231" expanded="true" signature="24305:24340" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="24305:24349" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="24305:24390" ph="SELECT * FRO... login" />
+                <marker date="1681287381231" expanded="true" signature="24508:24575" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="24508:24587" ph="UPDATE `logi... " />
+                <marker date="1681287381231" expanded="true" signature="24906:24940" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="24906:24948" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="25941:25972" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:25997" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26020" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26043" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26064" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26083" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26102" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26124" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26145" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26153" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26169" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="25941:26177" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="26267:26520" ph="update `USER... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26844" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26853" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26864" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26874" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26884" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26899" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="26765:26900" ph="Insert into `complaint`... " />
+                <marker date="1681287381231" expanded="true" signature="27776:27814" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="27776:27838" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="28372:28510" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="31062:31120" ph="SELECT * FRO... user" />
+                <marker date="1681287381231" expanded="true" signature="31817:31861" ph="select * fro... complaint" />
+                <marker date="1681287381231" expanded="true" signature="31817:31869" ph="select * fro... complaint" />
+                <marker date="1681287381231" expanded="true" signature="34419:34525" ph="SELECT * FRO... request" />
+                <marker date="1681287381231" expanded="true" signature="34419:34546" ph="SELECT * FRO... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_user_profile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/User/view_user_profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/home_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="96" lean-forward="false" selection-start-line="24" selection-start-column="96" selection-end-line="24" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Organization/home_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13104">
+              <caret line="624" column="16" lean-forward="false" selection-start-line="624" selection-start-column="16" selection-end-line="624" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Verify_user_donation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/Verify_user_donation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="95" lean-forward="false" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/Login/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="882">
+              <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_donations.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view_donations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="status of fund.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/status of fund.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>try</find>
+      <find>status_of_fund</find>
+      <find>home_index</find>
+      <find>view_donations.html</find>
+      <find>my</find>
+      <find>paymen</find>
+      <find>and_user_view_fund_requirements</find>
+      <find>features4-grid-in</find>
+      <find>newsletter</find>
+      <find>how can he</find>
+      <find>spec</find>
+      <find>vol</find>
+      <find>volunteer</find>
+      <find>contact</find>
+      <find>crowd</find>
+      <find>what</find>
+      <find>char</find>
+      <find>hom</find>
+      <find>home</find>
+      <find>dona</find>
+      <find>manage</find>
+      <find>and_user_view_profile</find>
+      <find>&lt;a class=&quot;nav-link&quot; href=&quot;index.html&quot;&gt;Home &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;</find>
+      <find>butt</find>
+      <find>subm</find>
+      <find>view_dona</find>
+      <find>verify_user_</find>
+      <find>Crowd</find>
+      <find>and_</find>
+      <find>repl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/Admin_Home.html" />
+        <option value="$PROJECT_DIR$/DBConnection.py" />
+        <option value="$PROJECT_DIR$/templates/User/edit_profile.html" />
+        <option value="$PROJECT_DIR$/templates/User/Change password.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/User/send_complaint.html" />
+        <option value="$PROJECT_DIR$/templates/User/View_reply.html" />
+        <option value="$PROJECT_DIR$/templates/User/User_Home.html" />
+        <option value="$PROJECT_DIR$/templates/User/view_fund_requirements.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/Home.html" />
+        <option value="$PROJECT_DIR$/templates/User/view_user_profile.html" />
+        <option value="$PROJECT_DIR$/static/Home_page/assets/index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Generate Donation Recipt.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/Manage Post.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/view_profile.html" />
+        <option value="$PROJECT_DIR$/templates/admin/send reply.html" />
+        <option value="$PROJECT_DIR$/templates/admin/View_Complaint_send_Reply.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/Change password.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/edit_post.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/org_edit_profile.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/Register.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/Request.html" />
+        <option value="$PROJECT_DIR$/templates/admin/View_rejected_org.html" />
+        <option value="$PROJECT_DIR$/templates/User/user_register.html" />
+        <option value="$PROJECT_DIR$/templates/User/Signup_index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Verify_user.html" />
+        <option value="$PROJECT_DIR$/templates/admin/View nd verify org.html" />
+        <option value="$PROJECT_DIR$/templates/admin/View_approved_org.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Verify_user_donation.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Change password.html" />
+        <option value="$PROJECT_DIR$/templates/Login_index.html" />
+        <option value="$PROJECT_DIR$/static/Home_page/about.html" />
+        <option value="$PROJECT_DIR$/static/Home_page/contact.html" />
+        <option value="$PROJECT_DIR$/static/Home_page/services.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Admin_Home.html" />
+        <option value="$PROJECT_DIR$/static/Home_page/assets/js/jquery.countup.js" />
+        <option value="$PROJECT_DIR$/templates/admin/status of fund.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_donations.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/view_donations.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/view_post.html" />
+        <option value="$PROJECT_DIR$/static/Home_page/index.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/Login/css/style.css" />
+        <option value="$PROJECT_DIR$/static/Register/index.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/Signup_index.html" />
+        <option value="$PROJECT_DIR$/static/Register/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/admin/home_index.html" />
+        <option value="$PROJECT_DIR$/templates/Organization/home_index.html" />
+        <option value="$PROJECT_DIR$/crowdfunding.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1934" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.2 (C:\Python\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Organization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crowdfunding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="D:/crowdfunding/crowdfunding.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\static\Home_page\assets\images" />
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\templates\Organization" />
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\templates\admin" />
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\static" />
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\static\Home_page\assets" />
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\static\Home_page" />
+      <recent name="C:\Users\91759\PycharmProjects\crowdfunding\templates\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.crowdfunding">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/crowdfunding/static/Home_page/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="crowdfunding" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="crowdfunding" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crowdfunding" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crowdfunding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.crowdfunding" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d6db8a-975b-48d1-9de2-1de26111db91" name="Default" comment="" />
+      <created>1669273626401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669273626401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="2" width="1934" height="1036" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1722282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35361654" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34881088" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16111708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crowdfunding.py</url>
+          <line>402</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crowdfunding.py</url>
+          <line>413</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/admin/send reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="93" lean-forward="false" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Verify_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Login1/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28287">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Login1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10896">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Login1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1388">
+          <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/starter-license-W3Layouts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/assets/js/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/assets/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/assets/js/jquery.countup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="88" lean-forward="false" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="64" lean-forward="false" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/user_register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="65" column="45" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/user_photo/20221125-150318.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/user_photo/20221125-161027.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/Organization/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/crowdfunding/crowdfunding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3129">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/View_approved_org.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="6" column="106" lean-forward="false" selection-start-line="6" selection-start-column="106" selection-end-line="6" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Generate Donation Recipt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/web3/_utils/contracts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="165" column="0" lean-forward="false" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/view_fund_requirements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Organization/view_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Organization/view_donations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Organization/view_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Admin_Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Change password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/user_photo/20230319-141129.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/Signup_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="104" column="109" lean-forward="false" selection-start-line="104" selection-start-column="109" selection-end-line="104" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="689" column="37" lean-forward="false" selection-start-line="689" selection-start-column="37" selection-end-line="689" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Organization/Register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="52" column="97" lean-forward="false" selection-start-line="52" selection-start-column="97" selection-end-line="52" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Home_page/assets/css/style-starter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Login_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Login/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4227">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Login/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Register/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="87" lean-forward="false" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Organization/Signup_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="87" lean-forward="false" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Register/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7182">
+          <caret line="342" column="19" lean-forward="false" selection-start-line="342" selection-start-column="19" selection-end-line="342" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/Login/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_donations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/status of fund.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Verify_user_donation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="95" lean-forward="false" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/home_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="96" lean-forward="false" selection-start-line="24" selection-start-column="96" selection-end-line="24" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Organization/home_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13104">
+          <caret line="624" column="16" lean-forward="false" selection-start-line="624" selection-start-column="16" selection-end-line="624" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/smart contract/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/smart contract/truffle-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="15" lean-forward="true" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/smart contract/contracts/Crowdfunding.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/view_user_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crowdfunding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="508" column="43" lean-forward="true" selection-start-line="508" selection-start-column="43" selection-end-line="508" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1681287381231" expanded="true" signature="714:755" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="714:785" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="714:798" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="1941:1976" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="1941:2017" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="1941:2037" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="2148:2179" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="2148:2213" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="2148:2237" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="3040:3071" ph="UPDATE `comp... " />
+            <marker date="1681287381231" expanded="true" signature="3040:3072" ph="UPDATE `comp... " />
+            <marker date="1681287381231" expanded="true" signature="3040:3092" ph="UPDATE `comp... " />
+            <marker date="1681287381231" expanded="true" signature="3040:3124" ph="UPDATE `comp... " />
+            <marker date="1681287381231" expanded="true" signature="3040:3132" ph="UPDATE `comp... " />
+            <marker date="1681287381231" expanded="true" signature="3326:3417" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="4559:4574" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="4559:4617" ph="SELECT `orgn... donation request" />
+            <marker date="1681287381231" expanded="true" signature="5181:5201" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="5423:5481" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="5659:5712" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="5896:5965" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="6119:6188" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="6327:6381" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="6604:6687" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="6851:6905" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="7128:7211" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="7551:7635" ph="SELECT * FRO... complaint" />
+            <marker date="1681287381231" expanded="true" signature="7939:8077" ph="SELECT * FRO... complaint" />
+            <marker date="1681287381231" expanded="true" signature="8835:8938" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="10486:10544" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="11132:11202" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="11383:11457" ph="SELECT * FRO... organization" />
+            <marker date="1681287381231" expanded="true" signature="11965:12003" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12026" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12052" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12073" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12093" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12115" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12141" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12160" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12208" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="11965:12232" ph="UPDATE `orga... " />
+            <marker date="1681287381231" expanded="true" signature="12730:12826" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="12937:13026" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="13470:13498" ph="select * fro... organization" />
+            <marker date="1681287381231" expanded="true" signature="13995:14111" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14148" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14161" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14176" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14191" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14206" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14220" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="13995:14244" ph="INSERT INTO `request`... " />
+            <marker date="1681287381231" expanded="true" signature="14426:14543" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="14426:14567" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="14741:14769" ph="select * fro... organization" />
+            <marker date="1681287381231" expanded="true" signature="14741:14787" ph="select * fro... organization" />
+            <marker date="1681287381231" expanded="true" signature="14741:14811" ph="select * fro... organization" />
+            <marker date="1681287381231" expanded="true" signature="14741:14813" ph="select * fro... organization" />
+            <marker date="1681287381231" expanded="true" signature="14849:14887" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="14849:14894" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="15457:15506" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15535" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15559" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15585" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15611" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15636" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15657" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15702" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15457:15709" ph="update `requ... " />
+            <marker date="1681287381231" expanded="true" signature="15901:15937" ph="DELETE FROM " />
+            <marker date="1681287381231" expanded="true" signature="15901:15944" ph="DELETE FROM " />
+            <marker date="1681287381231" expanded="true" signature="16927:17023" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="17058:17297" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="17581:17641" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="17818:17882" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="20422:20518" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="20629:20718" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="21364:21444" ph="INSERT INTO `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="21364:21500" ph="INSERT INTO `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="21364:21515" ph="INSERT INTO `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="21700:21744" ph="SELECT * FRO... complaint" />
+            <marker date="1681287381231" expanded="true" signature="21700:21768" ph="SELECT * FRO... complaint" />
+            <marker date="1681287381231" expanded="true" signature="21955:21975" ph="SELECT * FRO... fund" />
+            <marker date="1681287381231" expanded="true" signature="22496:22537" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="22496:22567" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="22496:22580" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="23543:23601" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="23543:23615" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="23543:23631" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="23543:23637" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="23543:23638" ph="INSERT INTO `login`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23796" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23811" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23824" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23838" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23851" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23862" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23874" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23885" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23900" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23910" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="23680:23924" ph="INSERT INTO `user`... " />
+            <marker date="1681287381231" expanded="true" signature="24305:24340" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="24305:24349" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="24305:24390" ph="SELECT * FRO... login" />
+            <marker date="1681287381231" expanded="true" signature="24508:24575" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="24508:24587" ph="UPDATE `logi... " />
+            <marker date="1681287381231" expanded="true" signature="24906:24940" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="24906:24948" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="25941:25972" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:25997" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26020" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26043" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26064" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26083" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26102" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26124" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26145" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26153" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26169" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="25941:26177" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="26267:26520" ph="update `USER... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26844" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26853" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26864" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26874" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26884" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26899" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="26765:26900" ph="Insert into `complaint`... " />
+            <marker date="1681287381231" expanded="true" signature="27776:27814" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="27776:27838" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="28372:28510" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="31062:31120" ph="SELECT * FRO... user" />
+            <marker date="1681287381231" expanded="true" signature="31817:31861" ph="select * fro... complaint" />
+            <marker date="1681287381231" expanded="true" signature="31817:31869" ph="select * fro... complaint" />
+            <marker date="1681287381231" expanded="true" signature="34419:34525" ph="SELECT * FRO... request" />
+            <marker date="1681287381231" expanded="true" signature="34419:34546" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

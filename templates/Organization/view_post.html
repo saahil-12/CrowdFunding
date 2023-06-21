@@ -1,0 +1,37 @@
+{% extends 'Organization/home_index.html' %}
+{% block body %}
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-bordered table-hover">
+    <tr>
+      <th scope="col">Sl No</th>
+      <th scope="col">Organization</th>
+      <th scope="col">Purpose</th>
+      <th scope="col">Amount</th>
+      <th scope="col">Last Date</th>
+      <th scope="col">Address 1</th>
+      <th scope="col">Address 2</th>
+      <th scope="col">Address 3</th>
+      <th scope="col">Status</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>&nbsp;{{ loop.index }}</td>
+      <td>&nbsp;{{ i['Org_Name'] }}</td>
+      <td>&nbsp;{{ i['Purpose'] }}</td>
+      <td>&nbsp;{{ i['Amount'] }}</td>
+      <td>&nbsp;{{ i['Date'] }}</td>
+      <td>&nbsp;{{ i['Address1'] }}</td>
+      <td>&nbsp;{{ i['Address2'] }}</td>
+      <td>&nbsp;{{ i['Address3'] }}</td>
+      <td>&nbsp;{{ i['Status'] }}</td>
+      <td><a href="/org_edit_post/{{ i['R_id'] }}">Edit</a></td>
+      <td><a href="/org_delete_post/{{ i['R_id'] }}" onclick="return confirm('Do you want to delete this ?')">Delete</a></td>
+      <td><a href="/org_view_donations/{{ i['R_id'] }}" >Donations</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+{% endblock %}

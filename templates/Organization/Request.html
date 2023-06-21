@@ -1,0 +1,55 @@
+{% extends 'Organization/home_index.html' %}
+{% block body %}
+<form id="form1" name="form1" method="post" action="/manage_post_post">
+
+<table class="table table-bordered table-hover">
+  <tr>
+    <td>Organization</td>
+    <td><select name="select" id="select">
+        {% for i in data %}
+        <option value="{{ i['Org_id'] }}">{{ i['Org_Name'] }}</option>
+        {% endfor %}
+    </select></td>
+  </tr>
+  <tr>
+    <td>Purpose</td>
+    <td><label for="textfield"></label>
+      <input type="text" name="textfield" id="textfield" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Amount</td>
+    <td><label for="textfield2"></label>
+      <input type="text" name="textfield2" id="textfield2" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Last Date</td>
+    <td><label for="textfield7"></label>
+      <input type="date" name="textfield7" id="textfield7" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td><label for="textfield3"></label>
+      <input type="text" name="textfield3" id="textfield3" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Address 1</td>
+    <td><label for="textfield4"></label>
+      <input type="text" name="textfield4" id="textfield4" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Address 2</td>
+    <td><label for="textfield5"></label>
+      <input type="text" name="textfield5" id="textfield5" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>Address 3</td>
+    <td><label for="textfield6"></label>
+      <input type="text" name="textfield6" id="textfield6" class="form-control" required/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><input type="submit" name="button" id="button" value="Submit" class="btn btn-success"/></td>
+  </tr>
+</table>
+</form>
+{% endblock %}

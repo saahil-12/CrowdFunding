@@ -1,0 +1,42 @@
+{% extends 'admin/home_index.html' %}
+{% block body %}
+
+<form id="form1" name="form1" method="post" action="/rejected_org_post">
+  <table class="table table-bordered table-hover">
+    <tr>
+      <td width="179"><input type="text" name="textfield" id="textfield" class="form-control" required /></td>
+      <td width="28"><input type="submit" name="button" id="button" value="Search" class="btn btn-success" /></td>
+    </tr>
+  </table>
+  <table class="table table-bordered table-hover">
+    <tr>
+      <td width="46">Sl.No</td>
+      <td width="46">Name</td>
+      <td width="47">Email</td>
+      <td width="48">Phone</td>
+      <td width="44">Place</td>
+      <td width="34">Post</td>
+      <td width="26">Pin</td>
+      <td width="60">District</td>
+      <td>State</td>
+
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ i['Org_Name'] }}</td>
+      <td>&nbsp;{{ i['Mail_Id'] }}</td>
+      <td>{{ i['Contact_No'] }}</td>
+      <td>{{ i['Place'] }}</td>
+      <td>&nbsp;{{ i['Post'] }}</td>
+      <td>&nbsp;{{ i['Pincode'] }}</td>
+      <td>&nbsp;{{ i['District'] }}</td>
+        <td>&nbsp;{{ i['State'] }}</td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+
+{% endblock %}
+
